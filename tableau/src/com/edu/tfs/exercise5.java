@@ -18,6 +18,7 @@ public class exercise5 {
 	public static int indicedePluspetit(double[] entires) {
 		if (entires.length <= 1)
 			return 0;
+		//test
 		
 		double min = entires[0];
 		int minimumindice = 0;
